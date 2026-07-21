@@ -185,3 +185,7 @@ budget code, because that is where the bugs were.
 
 - `.env` holds `GEMINI_API_KEY` and is gitignored. Never commit it.
 - Free-tier keys work. Grounded search queries are the main quota consumer.
+
+## License
+
+MIT. See the [LICENSE](LICENSE) file.
