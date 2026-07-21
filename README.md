@@ -173,7 +173,7 @@ demo_offline.py     scripted replay of a full run with a self-correction
 ## Verify
 
 ```bash
-python -m pytest tests/ -q   # 21 tests, fully mocked, no key needed
+python -m pytest tests/ -q   # 26 tests, fully mocked, no key needed
 ```
 
 The tests exercise the full agent loop, including retries, budget
